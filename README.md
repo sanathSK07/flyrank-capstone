@@ -13,6 +13,17 @@ An AI-powered web app that helps users draft, refine, and analyze content with a
 
 Week 1 — environment and toolchain setup. Features land in upcoming weeks.
 
+## Getting Started
+
+```bash
+git clone https://github.com/sanathSK07/flyrank-capstone.git
+cd flyrank-capstone
+npm install   # once the app is scaffolded
+npm run dev
+```
+
+You will need Node.js 20+ (LTS) and an Anthropic API key in `.env` (see `.env.example`, coming with the API scaffold).
+
 ## Roadmap
 
 - [x] Repo scaffold, license, .gitignore, CLAUDE.md
