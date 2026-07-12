@@ -1,0 +1,31 @@
+# FlyRank Capstone — AI Content Assistant
+
+An AI-powered web app that helps users draft, refine, and analyze content with an LLM — built as my capstone for the FlyRank AI Internship (Frontend AI Engineering track).
+
+## Stack
+
+- **Frontend:** React 18 + TypeScript + Vite + Tailwind CSS
+- - **Backend:** Node.js + Express (TypeScript)
+  - - **AI:** Claude API (Anthropic)
+    - - **Tooling:** Claude Code as AI pair programmer, ESLint + Prettier
+     
+      - ## Status
+     
+      - Week 1 — environment and toolchain setup. Features land in upcoming weeks.
+     
+      - ## Roadmap
+     
+      - - [x] Repo scaffold, license, .gitignore, CLAUDE.md
+        - [ ] - [ ] Frontend scaffold (Vite + React + Tailwind)
+        - [ ] - [ ] Express API with Claude integration
+        - [ ] - [ ] Streaming chat UI
+        - [ ] - [ ] Deploy
+       
+        - [ ] ## Conventions
+       
+        - [ ] All commits follow [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/). See CLAUDE.md for full project conventions.
+       
+        - [ ] ## License
+       
+        - [ ] MIT — see [LICENSE](LICENSE).
+        - [ ] 
